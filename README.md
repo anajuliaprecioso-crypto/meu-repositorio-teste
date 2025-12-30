@@ -1,18 +1,31 @@
-## Sejam Bem-vindos ao meu Mundo!
+## Sejam Bem-vindos ao meu desafio da DIO!
 
-![Gif do Gatinho](https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif)
+[Gif dos minions](https://i.pinimg.com/originals/0d/5b/ec/0d5becfa50179d754ce372508dcbe939.gif)
 ----
 
 
 👽 Olá, muito prazer, me chamo Ana Julia!
 
-💻 Sou estudante do terceiro período de Análise e Desenvolvimento de Sistemas, com interesse em Inteligência Artificial (IA).
+💻 Estou fazendo o desafio da DIO.
 
-📪 [Acesse o meu LinkedIn](https://www.linkedin.com/in/ana-julia-vieira-precioso-a290771a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+📪 [Olhe um exemplo dos meus repositórios](https://github.com/anajuliaprecioso-crypto/anajuliaprecioso-crypto)
 
 -----
-## Minhas Tecnologias
+## Meu progresso:
+1-Criar uma conta no GitHub [X]
 
- <img src="https://devicon-website.vercel.app/api/python/original.svg" width = "100px">
+2-Criar um repositório [X]
+
+3-Adicionar colaborador [ ] (aguardando resposta)
+
+4-Formatação com Markdown [X]
+
+ 
+
+
+
+ 
+ 
+ 
  
 
